@@ -3,6 +3,7 @@
 **/*.png
 **/*.mat
 **/*.jpg
+**/train_games/
 
 Lab?/*yass.ipynb
 
